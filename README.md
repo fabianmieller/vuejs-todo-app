@@ -2,7 +2,7 @@
 
 # VueJs Todo App
 
-Todo App written with VueJs 2 with Bootstrap 4 and Moment.js
+Todo App written with VueJs 2, Bootstrap 4 and Moment.js
 
 > This repository is currently in development phase!
 > (See [Todo](#todo) for open features).
@@ -17,7 +17,7 @@ Todo App written with VueJs 2 with Bootstrap 4 and Moment.js
 
 ----------
 
-##Creator
+## Creator
 * Fabian Mieller <kontakt@fabianmieller.de>
 
-<a href="https://fabianmieller.de" title="Fabian Mieller Webentwicklung & Grafikdesign"><img src="https://fabianmieller.de/logo.png" alt="Fabian Mieller Webentwicklung & Grafikdesign" style="width: 250px;"/></a>
+<a href="https://fabianmieller.de" title="Fabian Mieller Webentwicklung & Grafikdesign" target="_blank"><img src="https://fabianmieller.de/logo_small.png" alt="Fabian Mieller Webentwicklung & Grafikdesign"/></a>
