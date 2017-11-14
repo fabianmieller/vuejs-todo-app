@@ -7,9 +7,7 @@ Todo App written with VueJs 2, Bootstrap 4 and Moment.js
 > This repository is currently in development phase!
 > (See [Todo](#todo) for open features).
 
-## Todo
-
-### Open Todo's
+## Todo's
 
 * [ ] **Store Todos** - Store todos on local storage
 * [ ] **Icons** - Added Icons for "Remove" etc.
