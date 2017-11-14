@@ -5,7 +5,7 @@
 			template: '<li>' +
 				'<input type="checkbox" :id="item.name+index" :checked="typ === \'checked\' ? \'checked\' : \'\'" :value="item" @click="onCheckItem"> ' +
 				'<label :for="item.name+index">{{ item.name }}</label> - {{ unixToCalenderDate(item.created_at) }} - {{ unixToCalenderDate(item.updated_at) }}' +
-				' <a v-if="typ !== \'checked\'" @click="removeItem">Remove</a>' +
+				' <a href="javascript:void(0);" v-if="typ !== \'checked\'" @click="removeItem">Remove</a>' +
 				'</li>',
 			methods: {
 				onCheckItem(event) {
