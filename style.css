@@ -1,0 +1,13 @@
+.progress {
+  height: 25px; 
+}
+.progress .status {
+	height: 100%;
+	transition: width 0.3s ease;
+	padding-top: 4px;
+}
+
+ul li a {
+	color: red;
+	cursor: pointer; 
+}
